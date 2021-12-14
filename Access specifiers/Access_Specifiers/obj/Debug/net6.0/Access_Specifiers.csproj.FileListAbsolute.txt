@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Access_Specifiers\obj\Debug\net6.0\Access_Specifiers.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Access_Specifiers\obj\Debug\net6.0\Access_Specifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Access_Specifiers\obj\Debug\net6.0\Access_Specifiers.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Access_Specifiers\obj\Debug\net6.0\Access_Specifiers.AssemblyInfo.cs
+C:\Users\USER\Desktop\Access_Specifiers\obj\Debug\net6.0\Access_Specifiers.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Access_Specifiers\bin\Debug\net6.0\Access_Specifiers.exe
+C:\Users\USER\Desktop\Access_Specifiers\bin\Debug\net6.0\Access_Specifiers.deps.json
+C:\Users\USER\Desktop\Access_Specifiers\bin\Debug\net6.0\Access_Specifiers.runtimeconfig.json
+C:\Users\USER\Desktop\Access_Specifiers\bin\Debug\net6.0\Access_Specifiers.dll
+C:\Users\USER\Desktop\Access_Specifiers\bin\Debug\net6.0\ref\Access_Specifiers.dll
+C:\Users\USER\Desktop\Access_Specifiers\bin\Debug\net6.0\Access_Specifiers.pdb
+C:\Users\USER\Desktop\Access_Specifiers\obj\Debug\net6.0\Access_Specifiers.dll
+C:\Users\USER\Desktop\Access_Specifiers\obj\Debug\net6.0\ref\Access_Specifiers.dll
+C:\Users\USER\Desktop\Access_Specifiers\obj\Debug\net6.0\Access_Specifiers.pdb
+C:\Users\USER\Desktop\Access_Specifiers\obj\Debug\net6.0\Access_Specifiers.genruntimeconfig.cache
