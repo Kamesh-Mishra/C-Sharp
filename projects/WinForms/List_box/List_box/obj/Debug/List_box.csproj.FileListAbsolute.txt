@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\bin\Debug\List_box.exe.config
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\bin\Debug\List_box.exe
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\bin\Debug\List_box.pdb
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\obj\Debug\List_box.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\obj\Debug\List_box.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\obj\Debug\List_box.Form1.resources
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\obj\Debug\List_box.Properties.Resources.resources
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\obj\Debug\List_box.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\obj\Debug\List_box.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\obj\Debug\List_box.exe
+C:\Users\USER\Desktop\project\WinForms\List_box\List_box\obj\Debug\List_box.pdb
