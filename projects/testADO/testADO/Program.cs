@@ -1,4 +1,4 @@
-﻿
+﻿/*
 using System;
 using System.Data.SqlClient;
 
@@ -73,7 +73,7 @@ namespace Test
 
 
                 SqlDataReader DataString = Command.ExecuteReader();      // DataReader read
-                Console.WriteLine(DataString.HasRows);
+                //Console.WriteLine(DataString.HasRows);
 
                 while (DataString.Read())      // Iterating Data using loop  
                 {
@@ -102,25 +102,25 @@ namespace Test
                     Command.ExecuteNonQuery();
                     Console.WriteLine("Data Deleted!");
                 }
-                 /*   conn = new SqlConnection(ConnectionString);
+                 //   conn = new SqlConnection(ConnectionString);
                 //conn.ConnectionString = "Data Source=DESKTOP-D1T721P\SQLEXPRESS;Initial Catalog=test;Integrated Security=True"
-                conn.Open();
+                //conn.Open();
 
-                SqlCommand Command = new SqlCommand("DELETE FROM TestTable WHERE id = '101'", conn);
+                //SqlCommand Command = new SqlCommand("DELETE FROM TestTable WHERE id = '101'", conn);
 
-                Command.ExecuteNonQuery();
-                Console.WriteLine("Data Deleted!");
+                //Command.ExecuteNonQuery();
+                //Console.WriteLine("Data Deleted!");
 
-                */
+                
             }
             catch (Exception e)
             {
                 Console.WriteLine("ERROR" + e.Message);
-            }/*
-            finally
-            {
-                conn.Close();
-            }*/
+            }
+            //finally
+            //{
+             //   conn.Close();
+            //}
         }
 
 
@@ -129,9 +129,57 @@ namespace Test
             Program p = new Program();
             //p.Table();
             //p.Insert();
-            p.Fetch();
+            //p.Fetch();
             //p.Delete();
         }
 
+    }
+}
+
+
+*/
+
+
+using System;
+using System.Data.SqlClient;
+using System.Data;
+
+namespace Test
+{
+    class Program
+    {
+        string strr = @"Data Source = DESKTOP-D1T721P\SQLEXPRESS; Initial Catalog = test; Integrated Security = True";
+        SqlConnection conn = new SqlConnection();
+        public void Adaptr()
+        {   
+            
+            try
+            {
+                conn = new SqlConnection(strr);
+                conn.Open();
+                SqlDataAdapter da = new SqlDataAdapter("SELECT * FROM TestTable", conn);
+
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+                Console.WriteLine("Using DataTable ");
+                foreach (DataRow row in dt.Rows)
+                {
+                    Console.WriteLine(row[0] + " " + row[1] + " " + row[2]);
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error " + ex.Message);
+            }
+            finally
+            {
+                conn.Close();
+            }
+        }
+        static void Main()
+        {
+            Program p = new Program();
+            p.Adaptr();
+        }
     }
 }
