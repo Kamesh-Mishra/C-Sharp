@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\project\Structures\Structures\bin\Debug\net6.0\Structures.exe
+C:\Users\USER\Desktop\project\Structures\Structures\bin\Debug\net6.0\Structures.deps.json
+C:\Users\USER\Desktop\project\Structures\Structures\bin\Debug\net6.0\Structures.runtimeconfig.json
+C:\Users\USER\Desktop\project\Structures\Structures\bin\Debug\net6.0\Structures.dll
+C:\Users\USER\Desktop\project\Structures\Structures\bin\Debug\net6.0\ref\Structures.dll
+C:\Users\USER\Desktop\project\Structures\Structures\bin\Debug\net6.0\Structures.pdb
+C:\Users\USER\Desktop\project\Structures\Structures\obj\Debug\net6.0\Structures.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project\Structures\Structures\obj\Debug\net6.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\project\Structures\Structures\obj\Debug\net6.0\Structures.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\project\Structures\Structures\obj\Debug\net6.0\Structures.AssemblyInfo.cs
+C:\Users\USER\Desktop\project\Structures\Structures\obj\Debug\net6.0\Structures.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project\Structures\Structures\obj\Debug\net6.0\Structures.dll
+C:\Users\USER\Desktop\project\Structures\Structures\obj\Debug\net6.0\ref\Structures.dll
+C:\Users\USER\Desktop\project\Structures\Structures\obj\Debug\net6.0\Structures.pdb
+C:\Users\USER\Desktop\project\Structures\Structures\obj\Debug\net6.0\Structures.genruntimeconfig.cache
