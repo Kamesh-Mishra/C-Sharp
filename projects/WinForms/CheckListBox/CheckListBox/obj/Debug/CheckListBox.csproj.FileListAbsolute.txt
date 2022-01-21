@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\bin\Debug\CheckListBox.exe.config
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\bin\Debug\CheckListBox.exe
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\bin\Debug\CheckListBox.pdb
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\obj\Debug\CheckListBox.Form1.resources
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\obj\Debug\CheckListBox.Properties.Resources.resources
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\obj\Debug\CheckListBox.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\obj\Debug\CheckListBox.exe
+C:\Users\USER\Desktop\project\WinForms\CheckListBox\CheckListBox\obj\Debug\CheckListBox.pdb
