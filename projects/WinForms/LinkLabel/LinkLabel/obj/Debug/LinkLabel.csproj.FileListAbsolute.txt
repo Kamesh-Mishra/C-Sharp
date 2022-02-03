@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\bin\Debug\LinkLabel.exe.config
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\bin\Debug\LinkLabel.exe
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\bin\Debug\LinkLabel.pdb
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\obj\Debug\LinkLabel.Form1.resources
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\obj\Debug\LinkLabel.Form2.resources
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\obj\Debug\LinkLabel.Properties.Resources.resources
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\obj\Debug\LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\obj\Debug\LinkLabel.exe
+C:\Users\USER\Desktop\project\WinForms\LinkLabel\LinkLabel\obj\Debug\LinkLabel.pdb
