@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\bin\Debug\Error_Provider.exe.config
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\bin\Debug\Error_Provider.exe
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\bin\Debug\Error_Provider.pdb
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\obj\Debug\Error_Provider.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\obj\Debug\Error_Provider.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\obj\Debug\Error_Provider.Form1.resources
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\obj\Debug\Error_Provider.Properties.Resources.resources
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\obj\Debug\Error_Provider.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\obj\Debug\Error_Provider.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\obj\Debug\Error_Provider.exe
+C:\Users\USER\Desktop\project\WinForms\Error_Provider\Error_Provider\obj\Debug\Error_Provider.pdb
