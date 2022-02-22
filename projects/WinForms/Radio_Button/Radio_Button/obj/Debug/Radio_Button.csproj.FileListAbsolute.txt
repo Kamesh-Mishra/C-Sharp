@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\bin\Debug\Radio_Button.exe.config
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\bin\Debug\Radio_Button.exe
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\bin\Debug\Radio_Button.pdb
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\obj\Debug\Radio_Button.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\obj\Debug\Radio_Button.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\obj\Debug\Radio_Button.Form1.resources
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\obj\Debug\Radio_Button.Properties.Resources.resources
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\obj\Debug\Radio_Button.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\obj\Debug\Radio_Button.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\obj\Debug\Radio_Button.exe
+C:\Users\USER\Desktop\project\WinForms\Radio_Button\Radio_Button\obj\Debug\Radio_Button.pdb
